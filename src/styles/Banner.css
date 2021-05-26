@@ -1,0 +1,19 @@
+.lmg-logo {
+    height: 70px;
+    width: 70px;
+    position: relative;
+    float: left;
+
+}
+
+.lmg-Banner {
+    color: black;
+	text-align: center;
+	padding: 15px;
+	border-bottom: solid 3px black;
+	align-items: center;
+}
+
+.lmg-title {
+    padding-left: 32px;
+}
